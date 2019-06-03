@@ -1,12 +1,15 @@
 {
   "name": "web-project-template",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Creates web project template configured with webpack and gulp",
+  "main": "./src/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "webpack": "webpack",
     "webpack-watch": "webpack --watch"
+  },
+  "bin": {
+    "wpt": "./src/app.js"
   },
   "keywords": [],
   "author": "Michał Martyniuk",
