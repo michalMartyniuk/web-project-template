@@ -1,6 +1,8 @@
+#!/usr/bin/env node
+
 console.log('test')
 function sayHello() {
     console.log("hello")
 }
 
-exports.hello = sayHello
+module.exports.hello = sayHello
