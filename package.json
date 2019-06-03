@@ -1,6 +1,6 @@
 {
   "name": "web-project-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Creates web project template configured with webpack and gulp",
   "main": "./src/app.js",
   "scripts": {
