@@ -1,5 +1,5 @@
 {
-  "name": "gulp-template",
+  "name": "web-project-template",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "webpack-watch": "webpack --watch"
   },
   "keywords": [],
-  "author": "",
+  "author": "Michał Martyniuk",
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.4.4",
